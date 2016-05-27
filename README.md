@@ -4,7 +4,7 @@ Simple Modal shortcode using respondo / bootstrap
 Example usage:
 
 
-[sls-modal id="need-a-modal-id" header_text="Titel of the modal" button_class="default"]
+[sls-modal id="need-a-modal-id" header_text="Title of the modal" button_class="default"]
 
 Content to show in modal goes here
 
